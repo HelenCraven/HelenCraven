@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelenCraven
-- 👀 I’m interested in Data Analytics with Python and R
+- 👀 I’m interested in Data Science with Python and R
 - 🌱 I’m currently learning SQL 
 
 
